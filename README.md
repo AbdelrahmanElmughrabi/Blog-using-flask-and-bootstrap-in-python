@@ -2,11 +2,6 @@
 
 This project is a simple blog application built using Flask and Bootstrap in Python. It allows users to create, read, update, and delete blog posts.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 ## Features
 
 - Create, read, update, and delete blog posts.
